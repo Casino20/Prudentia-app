@@ -1,0 +1,6 @@
+{
+  "name": "PRUDENTI INVESTMENT SITE",
+  "description": "Complete modern investment platform with automated daily earnings, referral bonuses, coupon code registration, vendors, deposit & withdrawal scheduling, daily social tasks, Alexa AI guide, and admin control center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
